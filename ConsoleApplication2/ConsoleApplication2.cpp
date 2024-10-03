@@ -33,7 +33,10 @@ void AddPlayer()
     if (!IsNameUnique(Player.PlayerName))
     {
         std::cout << "Player's name must be unique! \n";
-        return;
+        do {
+            std::cout << "Enter Player's name:";
+            std::cin >> Player.PlayerName;
+        } while (!IsNameUnique(Player.PlayerName));
     }
        
     
