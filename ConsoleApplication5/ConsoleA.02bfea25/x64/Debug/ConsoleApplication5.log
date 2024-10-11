@@ -1,0 +1,6 @@
+﻿  ConsoleApplication5.cpp
+E:\Git\cpp_lessons\ConsoleApplication5\ConsoleApplication5.cpp(39,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Git\cpp_lessons\ConsoleApplication5\ConsoleApplication5.cpp(44,19): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+E:\Git\cpp_lessons\ConsoleApplication5\ConsoleApplication5.cpp(46,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Git\cpp_lessons\ConsoleApplication5\ConsoleApplication5.cpp(70,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  ConsoleApplication5.vcxproj -> E:\Git\cpp_lessons\ConsoleApplication5\x64\Debug\ConsoleApplication5.exe
